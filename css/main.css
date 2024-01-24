@@ -36,6 +36,7 @@ img:last-of-type {
 }
 h2 {
 	font-family: 'Roboto', sans-serif;
+	
 	font-size: 38px;
 	line-height: 45px;
 	letter-spacing: -1px;
@@ -49,6 +50,7 @@ p {
 	line-height: 28px;
 	margin-bottom: 20px;
 	font-family: 'Poppins', sans-serif;
+	font-family: 'Exo 2', sans-serif;
 }
 
 /* This is referred to as an adjacent selector. It will select only the element that is immediately preceded by the former element. */
@@ -67,9 +69,9 @@ p::first-letter {
 	color: white;
 	background-color: black;
 	border-radius: 5px;
-	box-shadow: 3px 3px 0 rgb(80, 227, 80);
+	box-shadow: 3px 3px 0 rgb(202, 30, 249);
 	font-size: 32px;
-	padding: 14px 6px;
-	margin-right: 8px;
+	padding: 3px 3px;
+	margin-right: 5px;
 	float: left;
 }
