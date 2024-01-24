@@ -35,18 +35,20 @@ img:last-of-type {
 	padding-right: 0;
 }
 h2 {
-	font-family: "Times New Roman", Times, serif;
+	font-family: 'Roboto', sans-serif;
 	font-size: 38px;
 	line-height: 45px;
 	letter-spacing: -1px;
 	margin-bottom: 20px;
 	text-shadow: 1px 1px 0 rgb(80, 227, 80);
 	font-weight: 900;
+
 }
 
 p {
 	line-height: 28px;
 	margin-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
 }
 
 /* This is referred to as an adjacent selector. It will select only the element that is immediately preceded by the former element. */
